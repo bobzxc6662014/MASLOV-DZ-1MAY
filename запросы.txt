@@ -1,0 +1,20 @@
+--SELECT * FROM workers
+--SELECT * FROM bikes
+-- SELECT * FROM magazin
+--SELECT name FROM workers
+-- SELECT post FROM workers
+-- SELECT departament FROM workers
+-- SELECT salary FROM workers 
+-- SELECT work_experiance FROM workers
+-- SELECT series FROM bikes 
+-- SELECT type FROM bikes 
+-- SELECT cost FROM bikes
+-- SELECT prodano FROM bikes
+-- SELECT current_type FROM bikes
+-- SELECT nomer FROM magazin
+-- SELECT city FROM magazin
+-- SELECT country FROM magazin
+ --SELECT series FROM bikes WHERE type = 'ult s24'
+ -- SELECT series FROM bikes WHERE tupe = 'just22'
+ --SELECT nomer FROM magazin WHERE country = ' РОССИЯ '
+ -- SELECT name FROM workers WHERE post = ' Механик'
