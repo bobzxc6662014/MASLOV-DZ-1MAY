@@ -1,0 +1,20 @@
+-- SELECT series FROM bikes WHERE cost IN (25000, 86000)
+--SELECT series FROM bikes WHERE prodano IN (65, 100)
+--SELECT series FROM bikes WHERE cost IN (17000, 35000)
+--SELECT series FROM bikes WHERE prodano IN (66, 656)
+--SELECT name FROM workers WHERE salary IN (120000, 185000)
+--SELECT name FROM workers WHERE salary IN (100000, 220000)
+--SELECT name FROM workers WHERE salary IN (150000, 215000)
+--SELECT name FROM workers WHERE salary BETWEEN 55000 and 95000
+--SELECT name FROM workers WHERE salary BETWEEN 72000 and 127000
+--SELECT name FROM workers WHERE post BETWEEN 'Услуги' and 'Механик'
+--SELECT name FROM workers WHERE post BETWEEN 'Генеральный директор' and 'Менеджер'
+--SELECT series FROM bikes WHERE current_type BETWEEN 'начальный' and 'средний'
+--SELECT series FROM bikes WHERE type BETWEEN 'envy' and 'versus'
+--SELECT series FROM bikes WHERE type BETWEEN 'grasshoper' and 'goof'
+--SELECT series FROM bikes WHERE type =  'ult s24' and cost =50000
+--SELECT series FROM bikes WHERE type =  'just22' and cost =29000
+--SELECT series FROM bikes WHERE type =  'versus22' and cost = 39000
+--SELECT series FROM bikes WHERE type =  'ult rc24' OR cost =50000
+--SELECT series FROM bikes WHERE type =  'goof25' OR cost =35000
+--SELECT series FROM bikes WHERE current_type =  'начальный' OR cost =18000
